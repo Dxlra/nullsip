@@ -2,7 +2,7 @@
 
 
 
-# {name}server.dnull.xyz:9339 ip adresse
+# {name}.server.dnull.xyz:9339 ip adresse
 
 
 
